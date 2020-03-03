@@ -1,0 +1,9 @@
+food = "Burger"
+is_delicious = true
+food = "Sandwich"
+num2 = 25
+num7 = 35
+quotient = num7 / num 2
+songs = ["You and I", "Heaven", "Movie"]
+songs.delete_at(0)
+songs.count
