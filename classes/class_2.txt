@@ -1,0 +1,11 @@
+Burger
+
+temperature (int)
+buns (boolean)
+toppings (array)
+side (string)
+
+change_temperature (changes the temperature of the meal)
+remove_buns (changes the boolean to false)
+add_toppings (adds items to the array of toppings)
+change_side (changes the side for the dish)
