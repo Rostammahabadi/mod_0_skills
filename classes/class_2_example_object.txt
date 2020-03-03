@@ -1,0 +1,11 @@
+triple_bacon_burger
+
+temperature = 150
+buns = true
+toppings = ["onion rings", "tomato", "lettuce", "onion"]
+side = "french fries"
+
+change_temperature = 155
+remove_buns = false
+add_toppings = ["onion rings", "tomato", "lettuce", "onion", "provolone cheese"]
+change_side = "green beans"
