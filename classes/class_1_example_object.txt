@@ -5,7 +5,7 @@ ingredients = ["steak", "seasoning"]
 side = "mashed potatoes"
 temperature = 145
 
-add_ingredient = ["scallops"]
+add_ingredient = ["rosemary"]
 remove_ingredient = ["seasoning"]
 increase_food_temperature = 150
 add_side = "french fries"
