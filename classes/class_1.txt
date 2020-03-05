@@ -1,11 +1,11 @@
 MainCourse
 name ("string")
 price (int or float)
-ingredient ([array])
+ingredients ([array])
 side ("string")
 temperature (int)
 
-add_ingredient (adds an ingredient to the MainCourse)
-remove_ingredient (removes an ingredient from the MainCourse)
+add_ingredient (pushes an ingredient to the array)
+remove_ingredient (removes an ingredient from the array)
 increase_food_temperature (increases the temperature aka how would you like the food cooked)
 add_side (adds a side to the MainCourse)

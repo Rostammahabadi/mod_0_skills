@@ -1,7 +1,7 @@
 eight_oz_top_sirloin
 
 price = 12
-ingredient = ["steak", "seasoning"]
+ingredients = ["steak", "seasoning"]
 side = "mashed potatoes"
 temperature = 145
 
