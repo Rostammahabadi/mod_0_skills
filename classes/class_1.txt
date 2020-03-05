@@ -1,7 +1,7 @@
 MainCourse
 name ("string")
 price (int or float)
-ingredient ("string")
+ingredient ([array])
 side ("string")
 temperature (int)
 

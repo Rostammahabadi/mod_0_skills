@@ -1,11 +1,11 @@
 eight_oz_top_sirloin
 
 price = 12
-ingredient = "steak"
+ingredient = ["steak", "seasoning"]
 side = "mashed potatoes"
 temperature = 145
 
-add_ingredient = "Scallops"
-remove_ingredient = "Seasoning"
+add_ingredient = ["scallops"]
+remove_ingredient = ["seasoning"]
 increase_food_temperature = 150
 add_side = "french fries"
